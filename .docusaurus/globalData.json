@@ -96,11 +96,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorial-basics/deploy-your-site",
               "path": "/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
@@ -108,11 +103,6 @@
             {
               "id": "tutorial-basics/generate-db-api",
               "path": "/tutorial-basics/generate-db-api",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/interacting-api",
-              "path": "/tutorial-basics/interacting-api",
               "sidebar": "tutorialSidebar"
             },
             {

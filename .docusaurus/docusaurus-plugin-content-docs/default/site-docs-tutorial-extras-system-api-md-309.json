@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Congratulations!",
-    "permalink": "/tutorial-basics/congratulations"
+    "title": "Deploy your site",
+    "permalink": "/tutorial-basics/deploy-your-site"
   },
   "next": {
     "title": "Rotating API Keys",

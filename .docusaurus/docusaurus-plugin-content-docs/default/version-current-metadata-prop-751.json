@@ -170,18 +170,8 @@
           },
           {
             "type": "link",
-            "label": "Interacting with the API",
-            "href": "/tutorial-basics/interacting-api"
-          },
-          {
-            "type": "link",
             "label": "Deploy your site",
             "href": "/tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/tutorial-basics/congratulations"
           }
         ],
         "collapsed": true,

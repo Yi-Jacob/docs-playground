@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Interacting with the API",
-    "permalink": "/tutorial-basics/interacting-api"
+    "title": "Secure the API",
+    "permalink": "/tutorial-basics/secure-api"
   },
   "next": {
-    "title": "Congratulations!",
-    "permalink": "/tutorial-basics/congratulations"
+    "title": "System API",
+    "permalink": "/tutorial-extras/system-api"
   }
 }
