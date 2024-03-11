@@ -122,12 +122,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       },
       algolia: {
         // The application ID provided by Algolia
-        appId: 'HP4979Z2SP',
+        appId: 'QGHNECBGGU',
   
         // Public API key: it is safe to commit it
         apiKey: '5063583ea61ed0b8025b3da6e18eecb4',
   
-        indexName: 'df-docs',
+        indexName: '533cef8058b7e446e915ebb7a98d2ef2',
   
         // Optional: see doc section below
         contextualSearch: true,
